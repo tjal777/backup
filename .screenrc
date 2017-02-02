@@ -1,0 +1,8 @@
+startup_message off
+
+caption always
+caption string "%{+s ky}%-Lw%?%F%{=b bw}%:%{= bw}%?%n*%f %t%{-}%+Lw%{=u ky} "
+
+hardstatus alwayslastline
+hardstatus string "%{=b kr}%H %= %c"
+
